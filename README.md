@@ -74,7 +74,7 @@ Although originally designed for Audio Effect Racks containing two chains, the c
 
 ### Screenshot
 
-![Quantized FX Toggle](assets/img/maxforlive/quantize_toggle.png)
+![Quantized FX Toggle](assets/quantize_toggle.png)
 
 ---
 
@@ -122,7 +122,7 @@ This is particularly useful for:
 
 ### Screenshot
 
-![CC to Momentum](assets/img/maxforlive/cc_to_momentum.png)
+![CC to Momentum](assets/cc_to_momentum.png)
 
 ---
 
